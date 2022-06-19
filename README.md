@@ -1,1 +1,1 @@
-# Story2
+this is a good story.
